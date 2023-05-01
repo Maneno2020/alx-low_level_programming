@@ -1,10 +1,10 @@
 #include "lists.h"
 
 /**
- * add_nodeint_end: adding new node at the end of linked list
+ * add_nodeint_end- adding new node at the end of linked list
  * @head: head of linked list
- * @n: integer number
- * Return: address of new element or NULL otherwise
+ * @n: int
+ * Return: address of new element or NULL if it doesn't exist
  */
 
 listint_t *add_nodeint_end(listint_t **head, const int n)
