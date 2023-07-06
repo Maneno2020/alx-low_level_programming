@@ -14,4 +14,5 @@ Write a function that returns the number of bits you would need to flip to get f
 6. Endianness
 A function for checking the endianness
 7. Crackme3
-Cracking finding  the password for this program.
+Crackin/ finding  the password for this program.
+
